@@ -4,9 +4,9 @@
 ## v3 Model for person Detection
 
 
-###model accuracy :- 94%
+### model accuracy :- 94%
 
-DEMO:- 
+#### DEMO:- 
 
 https://github.com/user-attachments/assets/22ea7380-78c4-4679-b28d-673d83357365
 

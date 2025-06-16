@@ -1,4 +1,16 @@
+
 # WMS_PUGARCH
+
+## v3 Model for person Detection
+
+
+###model accuracy :- 94%
+
+DEMO:- 
+
+https://github.com/user-attachments/assets/22ea7380-78c4-4679-b28d-673d83357365
+
+
 
 ## v2 Model for Box Detection
 
@@ -22,3 +34,4 @@ TEST 1 :
 TEST 2: 
 <img width="1210" alt="Screenshot 2025-06-03 at 10 45 27 PM" src="https://github.com/user-attachments/assets/3c7a3aea-1bcc-4e13-a518-3abbfc4ad477" />
 <img width="952" alt="Screenshot 2025-06-03 at 10 45 47 PM" src="https://github.com/user-attachments/assets/d79d34e5-f0af-442f-b61a-14e5b007a076" />
+
